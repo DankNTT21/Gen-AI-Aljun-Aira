@@ -1,0 +1,7 @@
+cd C:\Users\matub\OneDrive\Desktop\codebuddy
+
+python -m venv venv
+
+venv\Scripts\activate
+
+python app.py
